@@ -1,0 +1,52 @@
+COMMENTS 1.1 - Intro to video for comments
+COMMENTS 1.2 - Why comments
+COMMENTS 1.3 - How to use single line comments
+COMMENTS 1.4 - How to use double line comments
+COMMENTS 1.5 - Extra tips for comments
+COMMENTS 1.6 - Outro to video for comments
+
+
+
+W3SCHOOLS 1.1 - Intro to video for w3schools
+Chris from Codify Academy here.
+In this video i'm going to show you how and why to use comments in your code.
+
+
+
+COMMENTS 1.2 - Why comments
+these will be very important, they're gonna help to clarify to yourself and others what our code is doing, don't worry they won't show up to normal internet humans.
+only use magicians can see them.
+
+there are two types of comments - a single line comment and a double line comment, and they can both be used in HTML and CSS. They look different in each but we can use the shortcut for all.
+
+
+COMMENTS 1.3 - How to use single line comments
+lets start on the single line comment. We just said comments are used for developers to understand their code in the future, so as code you will leave reminders and explanations of whats happening.
+
+You type your comment where you want it, I this example I could type, this is my heading 1 element for this div.  and when I'm done, use the shortcut control or command forward slash the line to make it a comment.
+
+you can also uncomment a single line comment with the same shortcut.
+
+
+
+COMMENTS 1.4 - How to use double line comments
+when you want to comment out multiple line of codes, you highlight the line you want and use the same shortcut control or command forward slash to comment or uncomment these lines of code you highlight.
+
+you normally do this if you want to see what the website is like without that code there, or maybe you might want to use the code later.
+
+
+COMMENTS 1.5 - Creating a comment without the shortcut
+if you want to make your own comment without the shortcut you can type of the HTML and CSS single or double line comment and then add your comment
+
+COMMENTS 1.6 - Extra tips for comments
+A few extra tips,
+you don't have to highlight the entire line or lines you want to comment your cursor just need to be on the line or highlighted part of the line to be included in the commenting or uncommenting structure comments.
+
+Look at this example, it may seem like overkill now with the comments but if you add another 500 lines or so of content then keeping the page structured like this can help navigate the page, on top of that when you need to make a change you can use the find shortcut to get to the area you need to make changes to.
+
+I wouldn't recommend doing this type of commenting yet, we will work up to that.
+
+
+
+COMMENTS 1.7 - Outro to video for comments
+for now focus on adding comments single line comments to explain your code and multiline comments to comment out unused code instead of deleting it.
